@@ -5530,7 +5530,7 @@ window.application = new Application();
 		</div>
 	</div>
 	<div id="Group_95">
-		<img id="Mask_Group_2" src="Mask_Group_2.png" srcset="Mask_Group_2.png 1x, Mask_Group_2@2x.png 2x">
+		<img id="Mask_Group_2" class="fa fa-star" aria-hidden="true"></i>
 		</svg>
 	</div>
 	<div id="ID20200702">
